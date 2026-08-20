@@ -88,5 +88,5 @@ By analyzing applications, funding, repayment, borrower characteristics, loan gr
 
 **Advait Waingankar**
 
-GitHub: [Add your GitHub profile]
-LinkedIn: [Add your LinkedIn profile]
+GitHub: https://github.com/advaitwaingankar27
+LinkedIn: https://www.linkedin.com/in/advait-waingankar-69999a42
